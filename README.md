@@ -1,5 +1,5 @@
 # PSZT-Wine_Classification
-Neural network written in Python telling if wine is good or not.
+Neural network written in Python telling if wine is good or not. 
 
 <h2>Setup</h2>
 <h4>Install pipenv</h4>
